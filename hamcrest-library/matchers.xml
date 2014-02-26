@@ -40,6 +40,9 @@
     <factory class="org.hamcrest.number.IsNaN"/>
     <factory class="org.hamcrest.number.BigDecimalCloseTo"/>
     <factory class="org.hamcrest.number.OrderingComparison"/>
+    
+    <!-- io -->
+    <factory class="org.hamcrest.io.FileMatchers"/>
 
     <!-- Text -->
     <factory class="org.hamcrest.text.IsEqualIgnoringCase"/>
